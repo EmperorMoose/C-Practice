@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="AbsoluteC++" Database="" Version="10.0.0">
   <Project Name="Example1_1" Path="Example1_1/Example1_1.project" Active="No"/>
-  <Project Name="Example1_4" Path="Example1_4/Example1_4.project" Active="Yes"/>
+  <Project Name="Example1_4" Path="Example1_4/Example1_4.project" Active="No"/>
+  <Project Name="SelfTestCh1" Path="SelfTestCh1/SelfTestCh1.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="Example1_1" ConfigName="Debug"/>
       <Project Name="Example1_4" ConfigName="Debug"/>
+      <Project Name="SelfTestCh1" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="Example1_1" ConfigName="Release"/>
       <Project Name="Example1_4" ConfigName="Release"/>
+      <Project Name="SelfTestCh1" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
